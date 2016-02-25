@@ -258,7 +258,6 @@ describe('Moefou Api', function () {
         new_musics: 1,
         api: 'json'
       }).then((result) =>{
-        console.log(result)
         done();
       })
     })
