@@ -1,4 +1,4 @@
-# Haku-moefou NONE API条目的子条目
+# Haku-moefou NODE API
 
 采用es6编写代码使用babel-none,使用API Key 认证,OAuth 授权接口均未实现
 
