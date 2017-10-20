@@ -1,5 +1,7 @@
 # Haku-moefou NODE API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hakupoint/haku-moefou.svg)](https://greenkeeper.io/)
+
 采用es6编写代码使用babel-none,使用API Key 认证,OAuth 授权接口均未实现
 
 ## 安装
